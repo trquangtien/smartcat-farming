@@ -18,9 +18,9 @@ Farming script for smartcat project (smartlayer)
 node index.js
 ```
 
-Author: x.com/trangchongcheng
+Author: https://x.com/trangchongcheng
 
-Twitter: x.com/airdrop101xyz
+Twitter: https://x.com/airdrop101xyz
 
 Website: https://airdrop101.xyz
 

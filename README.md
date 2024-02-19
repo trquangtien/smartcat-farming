@@ -6,7 +6,7 @@ Farming script for smartcat project (smartlayer)
 
 1. Cài đặt nodejs + vscode (install nodejs + vscode): https://youtu.be/YMwiiN557yg
 
-2. Cài đặt thư viện (install librarys):
+2. Cài đặt thư viện (install libraries):
 
 ```
  npm install

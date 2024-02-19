@@ -15,7 +15,7 @@ Farming script for smartcat project (smartlayer)
 3. Run script:
 
 ```
-node index.js
+node index.ts
 ```
 
 Author: https://x.com/trangchongcheng
